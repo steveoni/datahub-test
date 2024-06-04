@@ -114,3 +114,12 @@ Well that is not the basis of this document, this is just to test the  use of da
     'platform'
   ]}
 />
+
+
+Wow, this product really looks good, data-journalism on steriod. Okay trying another component to see how it works
+
+<FlatUiTable
+  data={{
+    url: 'https://storage.openspending.org/alberta-budget/__os_imported__alberta_total.csv'
+  }}
+ />
